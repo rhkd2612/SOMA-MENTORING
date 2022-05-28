@@ -1,5 +1,7 @@
 # SOMA-MENTORING
  소마 멘토링 정리
+ 
+ https://same-cadet-e77.notion.site/11d80c0ab1064f8696ecd81c49b8d5fd
 
 # 소마 기술 멘토링 정리
 
@@ -79,10 +81,6 @@
     오픈소스는 업데이트가 빠르므로 한글 블로그를 보면 안된다.
     
     서비스 운영시 루트 사용 x
-    
-    Use Docker as a non-privileged user, or install in rootless mode?
-    
-    The installation script requires root or sudo privileges to install and use Docker. If you want to grant non-root users access to Docker, refer to the post-installation steps for Linux. Docker can also be installed without root privileges, or configured to run in rootless mode. For instructions on running Docker in rootless mode, refer to run the Docker daemon as a non-root user (rootless mode).
     
     도커의 취약점 : docker의 모든 파일을 관리하는 디렉토리가 root에서 관리
     root만 접근 가능함, 도커를 쓰려면 일부 루트를 허용해 주어야 한다.
