@@ -1,7 +1,7 @@
 # SOMA-MENTORING
  소마 멘토링 정리
  
-https://mumomu.notion.site/cdec938d7be642e2aa382238f56382f2
+https://mumomu.notion.site/11d80c0ab1064f8696ecd81c49b8d5fd
 
 # 소마 기술 멘토링 정리
 
