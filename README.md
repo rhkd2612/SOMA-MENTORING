@@ -1,4 +1,5 @@
 # 소마 기술 멘토링 정리
+https://mumomu.notion.site/11d80c0ab1064f8696ecd81c49b8d5fd
 
 - **22.05.xx 변재영 멘토님 Docker 강의 1~2회차**
     
